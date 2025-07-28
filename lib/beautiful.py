@@ -82,8 +82,6 @@ banner = r"""
                                                          `-(-'
                                                             )
 
-                            :-----------------Phunter-----------------:
-                            |    by Norze ~ Phone number OSINT Tool   |
-                            :-----------------------------------------:"""
+                            """
 
 print_banner(banner, start=Color.random(), end=Color.random())
